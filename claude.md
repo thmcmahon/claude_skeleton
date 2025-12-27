@@ -1,5 +1,9 @@
 # Claude Code Instructions
 
+## Setup
+
+- Read `objectives.md` at the start of each conversation to understand current project goals
+
 ## Core Principles
 
 - Write clean code that maximizes user understandability
