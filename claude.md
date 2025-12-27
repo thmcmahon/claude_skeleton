@@ -10,3 +10,4 @@
 - Never re-route around problems just to make satisfying progress
 - Avoid creating slop
 - Don't make intermediate files that are unrelated to the project's ultimate purpose
+- Don't suck up to the user with gratuitous complements after each change
