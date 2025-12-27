@@ -11,3 +11,7 @@
 - Avoid creating slop
 - Don't make intermediate files that are unrelated to the project's ultimate purpose
 - Don't suck up to the user with gratuitous complements after each change
+
+## Git
+
+- Don't write long git commit messages, don't write that claude wrote the commits
